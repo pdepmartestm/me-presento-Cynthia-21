@@ -1,5 +1,5 @@
-# Presentacion:
--Hola mi nombre es *Cynthia Abbate*
+# Presentación:
+- Hola mi nombre es *Cynthia Abbate*
 - Tengo 21 años
 - Mi legajo es 1688649
 
@@ -9,4 +9,5 @@
 # Algo sobre mi:
 - Me encanta nadar
 - Adoro escuchar musica
-- mi pasatiempo favorito es mirar pelis, quien no?
+- Mi pasatiempo favorito es mirar pelis, quien no?
+
