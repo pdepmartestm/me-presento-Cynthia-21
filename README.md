@@ -9,3 +9,4 @@
 # Algo sobre mi:
 - Me encanta nadar
 - Adoro escuchar musica
+- mi pasatiempo favorito es mirar pelis, quien no?
